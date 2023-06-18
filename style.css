@@ -101,11 +101,11 @@ section .title::after{
     font-weight: 600;
 }
 .navbar .logo a span{
-    color: crimson;
+    color: white;
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: white;
+    color: #fff;
 }
 .navbar .menu li{
     list-style: none;
